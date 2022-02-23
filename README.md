@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate in Design & Development
 - 🤔 I’m looking for help with Database 
 - 💬 Ask me about Anime
-- ⚡ Fun fact: NASA still uses programs from the 70s in their spacecraft
+- ⚡ Fun fact: NASA wale bahot khatarnaak hai 
 - 📫 How to reach me: abhinavsinghring@gmail.com
 
 <!--
